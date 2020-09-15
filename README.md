@@ -17,3 +17,13 @@ Create an endpoint that allows a user to filter the comments based on all the av
 
 ## Notes
 
+The result screenshots are below:
+![Get Posts Page 1](https://github.com/KrishnaVarmaJava/tribehired-devs-backend-test/blob/master/src/main/resources/images/postsPage1.png)
+
+
+![Get Posts Page 2](https://github.com/KrishnaVarmaJava/tribehired-devs-backend-test/blob/master/src/main/resources/images/getPostsPage2.png)
+
+
+![Search Comment Page 2](https://github.com/KrishnaVarmaJava/tribehired-devs-backend-test/blob/master/src/main/resources/images/searchByEmail.png)
+
+![Search Comment Page 2](https://github.com/KrishnaVarmaJava/tribehired-devs-backend-test/blob/master/src/main/resources/images/searchByPostId.png)
